@@ -9,11 +9,11 @@ Cada carpeta es evidencia de un método: observar, analizar, sistematizar, mejor
 
 ## Sobre este repositorio
 
-Esto no es un repositorio de codigo: es un portfolio de proyectos ya realizados. Cada carpeta contiene entregables reales (relevamientos, informes, documentacion de producto) de trabajos concretos.
+Esto no es un repositorio de código: es un portfolio de proyectos ya realizados. Cada carpeta contiene entregables reales (relevamientos, informes, documentación de producto) de trabajos concretos.
 
 ## Stack y herramientas
 
-Lean Manufacturing, metodologias agiles (Scrum/Kanban), Google Workspace, Notion, Miro, Excel/Sheets avanzado, Make, HubSpot, Odoo
+Lean Manufacturing, metodologías ágiles (Scrum/Kanban), Google Workspace, Notion, Miro, Excel/Sheets avanzado, Make, HubSpot, Odoo
 
 ## 📁 Proyectos
 **🏭 Producción · Lean & Mejora de Procesos**
