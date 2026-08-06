@@ -7,6 +7,14 @@
 Proyectos reales de mi trayectoria antes de que la IA fuera mainstream.
 Cada carpeta es evidencia de un método: observar, analizar, sistematizar, mejorar.
 
+## Sobre este repositorio
+
+Esto no es un repositorio de codigo: es un portfolio de proyectos ya realizados. Cada carpeta contiene entregables reales (relevamientos, informes, documentacion de producto) de trabajos concretos.
+
+## Stack y herramientas
+
+Lean Manufacturing, metodologias agiles (Scrum/Kanban), Google Workspace, Notion, Miro, Excel/Sheets avanzado, Make, HubSpot, Odoo
+
 ## 📁 Proyectos
 **🏭 Producción · Lean & Mejora de Procesos**
 Relevamiento en planta + identificación de desperdicios en los primeros 2 días.
